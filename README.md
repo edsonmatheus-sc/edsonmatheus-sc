@@ -9,8 +9,7 @@
   <a href="https://www.linkedin.com/in/edson-matheus-souto-da-costa-4b986673/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <br>
-# Sou formado em Ciência Contábeis, estou transição de carreira para  a área de Tecnologia da Informação.
-<p>Atualmente estou fazendo cursos para Javascript e Java</p>
+# Sou formado em Ciências Contábeis e estou em transição de carreira para a área de Tecnologia da Informação. Atualmente, estou me especializando em programação, com foco em cursos de JavaScript e Java, buscando integrar meu conhecimento em contabilidade com habilidades técnicas para atuar na área de TI.
 
 
 
